@@ -1,6 +1,6 @@
-Car Insurance Fraud Detection
+##Car Insurance Fraud Detection##
 
-Description
+#Description#
 
 This project focuses on detecting fraudulent claims in car insurance datasets. By analyzing various features and patterns within the data, the goal is to build a reliable model that can identify suspicious claims and help insurance companies reduce losses due to fraud.
 
